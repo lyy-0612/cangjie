@@ -1,0 +1,5 @@
+# 仓颉项目通用忽略规则
+/target/
+.cache/
+.vscode/
+cjpm.lock
