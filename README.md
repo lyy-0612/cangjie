@@ -2,7 +2,7 @@
 
 基于仓颉（Cangjie）语言实现的轻量级 HTTP 静态文件服务器。
 
-本项目移植自 **"A Simple Web Server"**（Python + HTML），原项目使用 Python 标准库中的 `BaseHTTPServer` 实现了一个简单的 Web 服务器，并介绍了 CGI（通用网关接口）协议，支持运行外部程序的功能。现将其核心 HTTP 服务功能移植到仓颉语言，作为仓颉移植期末大作业。
+本项目移植自 **"A Simple Web Server"**（Python + HTML），原项目来自 [500 Lines or Less](https://github.com/aosabook/500lines/tree/master/web-server) 一书，使用 Python 标准库中的 `BaseHTTPServer` 实现了一个简单的 Web 服务器，并介绍了 CGI（通用网关接口）协议，支持运行外部程序的功能。现将其核心 HTTP 服务功能移植到仓颉语言，作为仓颉移植期末大作业。
 
 ## 功能特性
 
