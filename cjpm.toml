@@ -2,7 +2,7 @@
   cjc-version = "1.1.0"
   name = "cangjie"
   organization = ""
-  description = "nothing here"
+  description = "HTTP静态文件服务器 - 最终版"
   version = "1.0.0"
   target-dir = ""
   script-dir = ""
